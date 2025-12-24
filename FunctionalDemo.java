@@ -1,6 +1,10 @@
 package com.tnsif.interface_demo;
 
 public class FunctionalDemo {
+	
+	void show() {
+		
+	}
 
 	public static void main(String[] args) {
 	
