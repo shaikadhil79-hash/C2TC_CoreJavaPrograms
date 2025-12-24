@@ -1,6 +1,6 @@
 //Demonstration of simple java program
 package com.tnsif.basic.java;
-import java.util.LinkedList ; //all subpackages
+ ; //all subpackages
 
 public class FirstProgram {
 	public static void main(String[] args) {
